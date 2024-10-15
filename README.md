@@ -1,6 +1,6 @@
 - 👋 I’m @CounterSpy
-- 👀 I’m interested in SQL, JavaScript, Visual Basic, & Python.
-- 🌱 I’m currently learning Discrete Math with a focus on Set Theory and Python.
+- 👀 I’m interested in SQL, JavaScript, & Python.
+- 🌱 I’m currently learning Discrete Math with a focus on Set Theory and Data Science.
 - 💞️ I’m looking to collaborate on whatever I'm currently working on.
 - 📫 How to reach me: message me here.
 
